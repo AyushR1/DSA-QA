@@ -1,5 +1,7 @@
 # Algorithms
 
+[Bit Manipulation](Algorithms%201c36f2218c77496091c52f996e24b2cd/Bit%20Manipulation%2077d051c331ca4194a5d646ebb25e1af7.md)
+
 [Array](Algorithms%201c36f2218c77496091c52f996e24b2cd/Array%20e500d22af8e84b1a87063e5f11909dc6.md)
 
 [Maths](Algorithms%201c36f2218c77496091c52f996e24b2cd/Maths%20f0116b99d3d541c2b9a6b86c4b9e7d4d.md)
@@ -23,3 +25,5 @@
 [Stack & Queues](Algorithms%201c36f2218c77496091c52f996e24b2cd/Stack%20&%20Queues%20def54b30b74d48e8b5f3f1f6a4dd54ed.md)
 
 [Binary Search](Algorithms%201c36f2218c77496091c52f996e24b2cd/Binary%20Search%20d4e21224e70745868a2f9ebb1e4cc8fd.md)
+
+[Trees](Algorithms%201c36f2218c77496091c52f996e24b2cd/Trees%20660063b6fe7e4a6f8dccd910f5e81aef.md)
